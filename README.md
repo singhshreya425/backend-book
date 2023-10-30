@@ -87,9 +87,13 @@ json
 
 
 {
+    
   "title": "Book Title",
+
   "author": "Author Name",
+
   "summary": "Book Summary"
+
 }
 
 
